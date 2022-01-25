@@ -59,6 +59,7 @@ nav a {
 .about_club{
     margin-left: 250px;
     margin-top: 100px;
+
 }
 .camp{
     width: 250px;
@@ -83,6 +84,7 @@ nav a {
     color: #109afb;
     text-align: center;
     height: 100px;
+    padding-top: 15px;
 }
 
 .privat{
@@ -97,7 +99,6 @@ nav a {
     font-size: 20px;
     display: flex;
     justify-content: space-around;
-    text-align: center;
     margin-bottom: 30px;
     color: #109afb;
 }
@@ -110,12 +111,13 @@ nav a {
 }
 #Coach{
     margin-top: 100px;
+    margin-bottom: 100px;
     font-size: 40px;
-    font-weight: bold;
     text-align: center;
 }
 
 .our_coaches{
+    padding-top: 5px;
     color: #109afb;
     background-color: rgba(0, 0, 0, 0.78);
 }
@@ -128,30 +130,19 @@ nav a {
     font-size: 18px;
     font-weight: bold;
     margin-left: 50px;
-    overflow: inherit;
-    width: 50%;
 }
 
 .image_coach{
-    display: flex;
     width: 100px;
-    border-radius: 70%;
-    margin-left: 20px;
 }
 
 .about_coach{
-    font-weight: 100;
     font-size: 20px;
-    margin-bottom: 30px;
-    margin-left: 20px;
-    overflow-wrap: inherit;
-    text-align: left;
+    text-align: center;
 }
 
 .equipment_text{
     font-size: 16px;
-
-
 }
 .boys{
     width: 300px;
@@ -171,9 +162,8 @@ nav a {
 }
 .slideshow-container {
     margin-top: 50px;
-    margin-left: 250px;
     align-content: center;
-    max-width: 1000px;
+    max-width: 1500px;
     position: relative;
     
 }
@@ -201,22 +191,6 @@ nav a {
 }
 .prev:hover, .next:hover {
     background-color: rgba(0,0,0,0.8);
-}
-.text {
-    color: #f2f2f2;
-    font-size: 15px;
-    padding: 8px 12px;
-    position: absolute;
-    bottom: 8px;
-    width: 100%;
-    text-align: center;
-}
-.numbertext {
-    color: #f2f2f2;
-    font-size: 12px;
-    padding: 8px 12px;
-    position: absolute;
-    top: 0;
 }
 .dot {
     cursor: pointer;
