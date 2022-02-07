@@ -1,62 +1,62 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="d207ad79-95b9-4e33-a544-5a727bae1304" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Competition.html" beforeDir="false" afterPath="$PROJECT_DIR$/Competition.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Rating.html" beforeDir="false" afterPath="$PROJECT_DIR$/Rating.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/title.html" beforeDir="false" afterPath="$PROJECT_DIR$/title.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Competition.html" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/Competition.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contacts.html" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/Contacts.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Equipment.html" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/Equipment.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rating.html" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/Rating.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/coaches/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/coaches/IMG_20200803_173630.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/coaches/IMG_20200803_173630.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/competition/республиканский календарь 2021.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/competition/республиканский календарь 2021.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foto/5.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/foto/5.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foto/6.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/foto/6.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foto/7.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/foto/7.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foto/vrb.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/foto/vrb.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/foto/vzal.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/foto/vzal.mp4" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/adress.png" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/logo/adress.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/depositphotos_122021062-stock-illustration-fencing-logo-illustration-design.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/logo/depositphotos_122021062-stock-illustration-fencing-logo-illustration-design.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/fencing.png" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/logo/fencing.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/pbt.png" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/logo/pbt.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/logo/phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/professional-fencing-equipment-mask-pictures_csp48328388.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/logo/professional-fencing-equipment-mask-pictures_csp48328388.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/девочки.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/logo/девочки.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/мальчики.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/logo/мальчики.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/о нас.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/logo/о нас.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/першыя шабли.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/logo/першыя шабли.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logo/—Pngtree—instagram icon instagram logo_3547981.png" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/logo/—Pngtree—instagram icon instagram logo_3547981.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raiting/_Рейтинг КАДЕТЫ девушки  сабля.docx" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/raiting/_Рейтинг КАДЕТЫ девушки  сабля.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raiting/_Рейтинг КАДЕТЫ юноши  сабля.docx" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/raiting/_Рейтинг КАДЕТЫ юноши  сабля.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raiting/_Рейтинг ЮНИОРЫ девушки  сабля.docx" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/raiting/_Рейтинг ЮНИОРЫ девушки  сабля.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/raiting/_Рейтинг ЮНИОРЫ юноши  сабля.docx" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/raiting/_Рейтинг ЮНИОРЫ юноши  сабля.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.js" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/title.html" beforeDir="false" afterPath="$PROJECT_DIR$/forked-project/title.html" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/.tmp/" />
-    <ignored path="$PROJECT_DIR$/temp/" />
-    <ignored path="$PROJECT_DIR$/tmp/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/title.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="83">
-              <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
-              <folding>
-                <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#iframe#0;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="127" selection-start-line="127" selection-end-line="127" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Competition.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="49" selection-start-line="49" selection-end-line="49" />
-              <folding>
-                <element signature="n#style#0;n#iframe#0;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -69,60 +69,17 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/8-14years.html" />
-        <option value="$PROJECT_DIR$/videogalery.html" />
-        <option value="$PROJECT_DIR$/6-8years.html" />
-        <option value="$PROJECT_DIR$/16-oldperson.html" />
-        <option value="$PROJECT_DIR$/8-15years.html" />
-        <option value="$PROJECT_DIR$/2008-2010.html" />
-        <option value="$PROJECT_DIR$/2013-2015.html" />
-        <option value="$PROJECT_DIR$/Privat.html" />
-        <option value="$PROJECT_DIR$/Coach.html" />
-        <option value="$PROJECT_DIR$/Timetable.html" />
-        <option value="$PROJECT_DIR$/fotogalery.html" />
-        <option value="$PROJECT_DIR$/Contacts.html" />
-        <option value="$PROJECT_DIR$/Equipment.html" />
-        <option value="$PROJECT_DIR$/test.js" />
-        <option value="$PROJECT_DIR$/Rating.html" />
-        <option value="$PROJECT_DIR$/Competition.html" />
-        <option value="$PROJECT_DIR$/style.css" />
-        <option value="$PROJECT_DIR$/title.html" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="836" />
-    <option name="y" value="18" />
-    <option name="width" value="698" />
-    <option name="height" value="672" />
-  </component>
+  <component name="ProjectId" id="24llu245m9osTf4rI9xrWK4J69S" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="MinskFencingCenter" type="b2602c69:ProjectViewProjectNode" />
-              <item name="MinskFencingCenter" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -133,18 +90,12 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/forked-project" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -187,183 +138,28 @@
       <workItem from="1642669643381" duration="1202000" />
       <workItem from="1642757080166" duration="1215000" />
       <workItem from="1643011848451" duration="6130000" />
+      <workItem from="1644213275236" duration="883000" />
     </task>
     <servers />
   </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="123297000" />
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
-    <editor active="true" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11532738" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Floobits" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3715221" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13541667" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Floobits" order="8" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3289689" />
-      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout-to-restore>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="2" />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../modul_html_and_css/lesson_9/houmwork-9/index.html">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../modul_html_and_css/lesson_9/houmwork-9/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="20" lean-forward="true" selection-start-line="8" selection-start-column="4" selection-end-line="14" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../modul_html_and_css/diplom_css_html/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="319">
-          <caret line="218" column="14" lean-forward="true" selection-start-line="218" selection-start-column="14" selection-end-line="218" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../modul_html_and_css/diplom_css_html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="493">
-          <caret line="85" column="39" selection-start-line="85" selection-start-column="39" selection-end-line="85" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15-oldperson.html" />
-    <entry file="file://$PROJECT_DIR$/videogalery.html" />
-    <entry file="file://$PROJECT_DIR$/../modul_html_and_css/lesson_2/houmwork-2.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2335">
-          <caret line="17" column="23" lean-forward="true" selection-start-line="16" selection-start-column="11" selection-end-line="17" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2013-2015.html" />
-    <entry file="file://$PROJECT_DIR$/2008-2010.html" />
-    <entry file="file://$PROJECT_DIR$/Privat.html" />
-    <entry file="file://$PROJECT_DIR$/Coach.html" />
-    <entry file="file://$PROJECT_DIR$/Timetable.html" />
-    <entry file="file://$PROJECT_DIR$/fotogalery.html" />
-    <entry file="file://$PROJECT_DIR$/../modul_html_and_css/project/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-          <folding>
-            <marker date="1625504327635" expanded="true" signature="340:438" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../modul_html_and_css/project/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="425">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="1" lean-forward="true" selection-start-line="13" selection-start-column="1" selection-end-line="13" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Contacts.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="76" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Equipment.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="76" selection-start-line="12" selection-start-column="76" selection-end-line="12" selection-end-column="76" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Rating.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="393">
-          <caret line="68" column="423" selection-start-line="68" selection-start-column="423" selection-end-line="68" selection-end-column="423" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Competition.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-          <folding>
-            <element signature="n#style#0;n#iframe#0;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="127" selection-start-line="127" selection-end-line="127" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/title.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="71" column="21" selection-start-line="71" selection-start-column="21" selection-end-line="71" selection-end-column="21" />
-          <folding>
-            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#img#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#iframe#0;n#section#0;n#footer#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="511" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1644213281384">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="511" y="368" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1440.900@0.0.1440.900" timestamp="1644213281384" />
   </component>
 </project>
