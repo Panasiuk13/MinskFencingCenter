@@ -1,1 +1,223 @@
-/* You can add global styles to this file, and also import other style files */
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+* {
+  margin: 0;
+  padding: 0
+}
+
+body {
+  background-color: rgba(255, 160, 118, 0.1);
+}
+
+header,main,footer{
+  background-color: rgba(0, 0, 0, 0.78);
+  max-width: 1920px;
+
+}
+.logo{
+  font-size: 30px;
+  margin-left: 70px;
+  margin-top: -35px;
+  color: #109afb;
+}
+.logo_f{
+  width: 50px;
+  margin-left: 10px;
+  margin-top: 15px;
+}
+
+.rb{
+  font-size: 30px;
+}
+
+nav {
+  text-align: right;
+  margin-top: -70px;
+  margin-left: 250px;
+  margin-right: 30px;
+}
+
+nav a {
+  position: fixed;
+  text-decoration: none;
+  display: inline-block;
+  color: #000000;
+  padding: 40px 20px;
+
+}
+.topmenu > li {
+  display: inline;
+  position: relative;
+}
+.topmenu > li > a {
+  position: relative;
+  font-family: "Dancing Script", cursive;
+  font-size: 20px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.about_club{
+  margin-left: 250px;
+  margin-top: 100px;
+
+}
+.camp{
+  width: 250px;
+}
+
+.img{
+  margin: 30px 20px;
+  width: 150px;
+  border-radius: 50%;
+}
+.timetable{
+  color: black;
+  border: 10px #109afb;
+  margin-bottom: 40px;
+  font-size: 25px;
+  width: 100%;
+  text-align: center;
+}
+.our_timetable{
+  font-size: 50px;
+  background-color: rgba(0, 0, 0, 0.78);
+  color: #109afb;
+  text-align: center;
+  height: 100px;
+  padding-top: 15px;
+}
+
+.privat{
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 100px;
+}
+
+
+.about__contacts{
+  font-weight: bold;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-around;
+  margin-bottom: 30px;
+  color: #109afb;
+}
+
+.icons{
+  width: 40px;
+  text-decoration: none;
+  color: #109afb;
+  margin-top: 50px;
+}
+#Coach{
+  margin-top: 100px;
+  margin-bottom: 100px;
+  font-size: 40px;
+  text-align: center;
+}
+
+.our_coaches{
+  padding-top: 5px;
+  color: #109afb;
+  background-color: rgba(0, 0, 0, 0.78);
+}
+
+.logo_coach{
+  width: 50px;
+}
+
+.coach{
+  font-size: 18px;
+  font-weight: bold;
+  margin-left: 50px;
+}
+
+.image_coach{
+  width: 100px;
+}
+
+.about_coach{
+  font-size: 20px;
+  text-align: center;
+}
+
+.equipment_text{
+  font-size: 16px;
+}
+.boys{
+  width: 300px;
+}
+
+.raiting{
+  width: 20%;
+  font-size: 35px;
+}
+.contacts__wrraper{
+  height: 160px;
+}
+
+
+*{
+  box-sizing:border-box
+}
+.slideshow-container {
+  margin-top: 50px;
+  align-content: center;
+  max-width: 1500px;
+  position: relative;
+
+}
+
+.mySlides {
+  display: none;
+}
+
+.prev, .next {
+  cursor: pointer;
+  position: absolute;
+  top: 50%;
+  width: auto;
+  margin-top: -22px;
+  padding: 16px;
+  color: white;
+  font-weight: bold;
+  font-size: 18px;
+  transition: 0.6s ease;
+  border-radius: 0 3px 3px 0;
+}
+.next {
+  right: 0;
+  border-radius: 3px 0 0 3px;
+}
+.prev:hover, .next:hover {
+  background-color: rgba(0,0,0,0.8);
+}
+.dot {
+  cursor: pointer;
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+  background-color: #717171;
+}
+
+.fade {
+  animation-name: fade;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
+
+@keyframes fade {
+  from {opacity: .4}
+  to {opacity: 1}
+}
